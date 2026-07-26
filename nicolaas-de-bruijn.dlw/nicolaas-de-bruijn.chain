@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1643
+slug  : nicolaas-de-bruijn
+seal  : a9d790ee90fb4000c86ac9ff9b15068bfcdff1e7cb394a94315b170cd108ba20
+prev  : 284461312cc348abcc1501129ef4091a60561c0ca73c0ab499c64646d7d39a85
+link  : cd2bcb4b407612a307a9d489ac4e2d9b910879defc2b4bd59666ab1e30f8e2b3
+head  : cd2bcb4b407612a307a9d489ac4e2d9b910879defc2b4bd59666ab1e30f8e2b3
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
